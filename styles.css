@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#output img {
+    margin: 10px;
+    border: 2px solid #ddd; /* Light grey border */
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
